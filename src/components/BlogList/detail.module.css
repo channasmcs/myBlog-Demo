@@ -1,0 +1,9 @@
+.panel {
+	width: 100%;
+	margin: 3pc 0px;
+}
+.panel_body {
+	padding: 10px 0px;
+	background: #f2f2f2;
+	margin-bottom: 6px;
+}
