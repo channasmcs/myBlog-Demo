@@ -61,8 +61,4 @@ const Header = props => (
 	</nav>
 );
 
-Header.propTypes = {
-	children: PropTypes.node,
-};
-
 export default Header;
